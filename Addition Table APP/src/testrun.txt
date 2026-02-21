@@ -1,0 +1,11 @@
+/Users/jonathansonnek/Library/Java/JavaVirtualMachines/openjdk-25.0.2/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=63213 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/jonathansonnek/Documents/GitHub/week-5-program-3-addition-table-app-jsonnek/out/production/Addition Table APP Main
+Enter a number from 3 to 20: 6
+   +   1   2   3   4   5   6
+   1   2   3   4   5   6   7
+   2   3   4   5   6   7   8
+   3   4   5   6   7   8   9
+   4   5   6   7   8   9  10
+   5   6   7   8   9  10  11
+   6   7   8   9  10  11  12
+
+Process finished with exit code 0
